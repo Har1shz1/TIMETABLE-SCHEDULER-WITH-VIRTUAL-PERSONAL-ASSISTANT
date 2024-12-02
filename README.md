@@ -51,8 +51,30 @@ and sharing using the “OpenPyXL” python library.
 • The Excel (.xlsx) format used to construct the timetables is compatible with Google
 Sheets, Microsoft Excel, and other spreadsheet programs. This guarantees that users
 are able to browse, edit, or print timetables as required.
+
 • The virtual personal assistant uses the text-to-speech library named “pyttsx3” to
 convert the Gemini API’s output to audio format so that it can be read out to the user
 through the virtual character.
+
 • The system also provides system notification using the “Plyer” library for reminding
 users of upcoming classes from the timetable.
+
+# Timetable Scheduler Output
+
+![image](https://github.com/user-attachments/assets/6bc7266d-894e-4659-8604-250850024dfe)
+
+![image](https://github.com/user-attachments/assets/c7d13b1b-395a-4918-9c5b-191ff89f6958)
+
+![image](https://github.com/user-attachments/assets/91525cb3-a871-4103-843c-673cc321f8b5)
+
+![image](https://github.com/user-attachments/assets/df6e6ea3-7748-46fa-b454-63294812df27)
+
+# Virtual Personal Assistant
+
+![image](https://github.com/user-attachments/assets/8e9da6cf-f20a-46b2-b6ad-5f5377f68290)
+
+![image](https://github.com/user-attachments/assets/79d502e7-63f4-4c0e-807e-86737b7e926a)
+
+
+
+
