@@ -26,6 +26,7 @@ as courses, faculty/research scholar details, rooms list and open slots in the f
 order to keep pertinent attributes like course code, credits, necessary theory and lab slots, and
 faculty/research scholar details like name, gender, courses taken, and priority, we have created
 classes for courses and faculties/research scholars.
+
 The main component of the system is the timetable scheduler, which assigns lab slots
 using a brute-force approach. This algorithm looks for limits like preventing conflicting times,
 making sure there aren't any ongoing lab sessions, and following gender-based guidelines like not
@@ -36,6 +37,7 @@ For assigning a slot, it randomly picks a slot and room combination from the lis
 available slots. The process generates a new random slot until a valid one is identified if a clash is
 detected. For now the scheduler only gives a structured output for lab slots for each research
 scholar.
+
 After that, the virtual personal assistant takes over and pulls up the timetable information,
 including the venue, time, slot, and course code, to send out reminders for upcoming lessons. It
 also handles general user inquiries using audio input. All we have to do is talk to it and it uses the
