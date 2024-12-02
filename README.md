@@ -73,7 +73,7 @@ users of upcoming classes from the timetable.
 
 ![image](https://github.com/user-attachments/assets/8e9da6cf-f20a-46b2-b6ad-5f5377f68290)
 
-![image](https://github.com/user-attachments/assets/79d502e7-63f4-4c0e-807e-86737b7e926a)
+
 
 
 
