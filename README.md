@@ -2,11 +2,17 @@
 The goal of this project is to make the disorganized process of creating timetables more effective and user-friendly for the benefit of all parties involved in the academic environment.
 # Features
 • Automated timetable creation to reduce errors, save time, and offer a simple, reliable solution to schedule academic schedules effectively.
+
 • Develop a scheduler that ensures no overlapping or conflicting slots adhering to predefined rules and constraints.
+
 • Provide reminders for upcoming classes using extracted timetable details and answer general queries enhancing user convenience.
+
 • To increase the productivity of the faculties and scholars in their day to day activities.
+
 • To replace the existing manual scheduling of timetables.
+
 • Show a proof of concept to actually implement this in the university for real time use.
+
 # Proposed System
 The system that we have developed can be seen as two different parts. The first part is the timetable scheduler part where we wrote our custom coded algorithm which implements all the constraints for scheduling the timetable for research scholars. The second part is the virtual personal assistant which uses Google’s Gemini API as it’s backbone and also has the additional function of providing reminders to the user for upcoming classes using the output of the timetables scheduled using the timetable scheduler algorithm. The following block diagram shows the system architecture of this project.
 
