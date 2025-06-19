@@ -1,6 +1,6 @@
 import random
 import openpyxl
-from openpyxl.styles import Border, Side, Alignment, Font, PatternFill
+from openpyxl.styles import Border, Side, Alignment, Font, PatternFill 
 import csv
 
 class Faculty:
